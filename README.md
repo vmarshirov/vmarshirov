@@ -7,5 +7,3 @@
 УстановитьPyCharm Community Edition  (среда разработки ПО). См. https://www.jetbrains.com/ru-ru/pycharm/
  
 
-#### Если возникают проблемы обращаться: 
-vmarshirov@hse.ru;  Telegram, Viber, Phone +79081605316
