@@ -1,7 +1,7 @@
 
-Начальная страница, рабочие материалы  и ссылки дисциплины "Основы web-технологий" размещены в репозитории:
-https://github.com/vmarshirov/g06u28</a>
-
+<h4 class="text-normal">Начальная страница, рабочие материалы  и ссылки дисциплины "Основы web-технологий" размещены в репозитории:
+https://github.com/vmarshirov/g06u28
+</h4>
 Рекомендации
 
 Обновить Python в соответствии с рекомендациями в https://github.com/vmarshirov/WebApplicationsDevelopment/tree/main/files
