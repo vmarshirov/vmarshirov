@@ -11,7 +11,7 @@ https://github.com/vmarshirov/WebApplicationsDevelopment
 <strong>Разное</strong>
 <br>Относительно записи на майнор и в определенные группы обращаться к менеджерам образовательных программ и через них к Лобачевой Людмиле  Львовне (Llobacheva@hse.ru) 
 
-<strong>Полезноее</strong>
+<strong>Полезное</strong>
 <br>Настройка VSC:https://www.youtube.com/watch?v=e15PvHRHB_w&list=PLLVz8aOLIOTAZAQVWjsrAZZvKydRwjTed ; https://github.com/PythonHubStudio/vscode-settings
  
 <strong>Коллеги по майнору:</strong>
