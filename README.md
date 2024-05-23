@@ -21,7 +21,6 @@ https://github.com/vmarshirov/WebApplicationsDevelopment
 <br>
 
 <strong>Контакты:</strong>
-
-<br>Расписание на:https://www.hse.ru/org/persons/202020/timetable
 <br>e-mail: vmarshirov@hse.ru
-<br>Viber -  +79081605316. Если не ответил через соцсети  - звонить по телефону +79081605316
+<br>Viber, Telegram, Skype:  +79081605316. Если не ответил через соцсети  - звонить по телефону +79081605316
+<br>Расписание: https://www.hse.ru/org/persons/202020/timetable
