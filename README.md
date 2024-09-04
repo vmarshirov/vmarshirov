@@ -15,6 +15,9 @@ https://github.com/vmarshirov/WebApplicationsDevelopment
 <br>Настройка VSC:
 <br>https://www.youtube.com/watch?v=e15PvHRHB_w&list=PLLVz8aOLIOTAZAQVWjsrAZZvKydRwjTed
 <br>https://github.com/PythonHubStudio/vscode-settings
+
+<p>https://telemost.yandex.ru/download-desktop</p>
+
  
 <strong>Коллеги по майнору:</strong>
 <br>amkuznetsov@hse.ru; m.timofeeva@hse.ru; dasolntseva@hse.ru; aiosipova@hse.ru; eshadrina@hse.ru; vmarshirov@hse.ru; 
