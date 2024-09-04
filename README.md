@@ -17,7 +17,8 @@ https://github.com/vmarshirov/WebApplicationsDevelopment
 <br>https://github.com/PythonHubStudio/vscode-settings
  
 <strong>Коллеги по майнору:</strong>
-<br>amkuznetsov@hse.ru; m.timofeeva@hse.ru; dasolntseva@hse.ru; aiosipova@hse.ru; eshadrina@hse.ru; vmarshirov@hse.ru
+<br>amkuznetsov@hse.ru; m.timofeeva@hse.ru; dasolntseva@hse.ru; aiosipova@hse.ru; eshadrina@hse.ru; vmarshirov@hse.ru; 
+<br>https://github.com/evshadrina; https://discord.gg/qdrv9t2Q
 <br>
 
 <strong>Контакты:</strong>
