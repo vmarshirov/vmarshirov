@@ -4,6 +4,11 @@ https://github.com/vmarshirov/g06u28
 <strong>Начальная страница, рабочие материалы  и ссылки дисциплины "Разработка web-приложений" размещены в репозитории:</strong>
 https://github.com/vmarshirov/WebApplicationsDevelopment
 
+<strong>Начальная страница, рабочие материалы  и ссылки дисциплины "Базы данных" размещены в репозитории:</strong>
+https://github.com/vmarshirov/DataBase
+
+
+
 <strong>Обязательно</strong>
 <br>Обновить Python в соответствии с рекомендациями в https://github.com/vmarshirov/WebApplicationsDevelopment/tree/main/files
 
