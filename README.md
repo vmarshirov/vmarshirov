@@ -31,5 +31,5 @@ https://github.com/vmarshirov/DataBase
 
 <strong>Контакты:</strong>
 <br>e-mail: vmarshirov@hse.ru
-<br>Viber, Telegram, Skype:  +79081605316. Если не ответил через соцсети  - звонить по телефону +79081605316
+<br>+79081605316
 <br>Расписание: https://www.hse.ru/org/persons/202020/timetable
