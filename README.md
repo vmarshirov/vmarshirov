@@ -14,12 +14,15 @@ https://github.com/vmarshirov/DataBase
 
 
 
+
 <strong>Обязательно</strong>
 <br>Обновить Python в соответствии с рекомендациями в https://github.com/vmarshirov/WebApplicationsDevelopment/tree/main/files
 
 
+
 <strong>Разное</strong>
 <br>Относительно записи на майнор и в определенные группы обращаться к менеджерам образовательных программ и через них к Лобачевой Людмиле  Львовне (Llobacheva@hse.ru) 
+
 
 <strong>Полезное</strong>
 <br>Настройка VSC:
@@ -31,7 +34,7 @@ https://github.com/vmarshirov/DataBase
  
 <strong>Коллеги по майнору:</strong>
 <br>amkuznetsov@hse.ru; m.timofeeva@hse.ru; dasolntseva@hse.ru; aiosipova@hse.ru; eshadrina@hse.ru; vmarshirov@hse.ru; 
-<br>https://github.com/evshadrina; https://discord.gg/qdrv9t2Q
+<br>https://github.com/evshadrina;
 <br>
 
 <strong>Контакты:</strong>
