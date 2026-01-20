@@ -10,6 +10,8 @@ https://www.hse.ru/org/persons/202020/timetable
 <strong>  Начальная страница, рабочие материалы  и ссылки дисциплины "Основы web-технологий" размещены в репозитории:</strong>
 https://github.com/vmarshirov/g06u28
 
+Список студентов, у которых я веду семинары на странице https://github.com/vmarshirov/WebApplicationsDevelopment/blob/main/files/courseid_262693_participants.pdf
+
 <strong> Начальная страница, рабочие материалы  и ссылки дисциплины "Разработка web-приложений" размещены в репозитории:</strong>
 https://github.com/vmarshirov/WebApplicationsDevelopment
 
