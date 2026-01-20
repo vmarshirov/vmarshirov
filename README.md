@@ -3,6 +3,10 @@
 https://telemost.360.yandex.ru/j/8012091243
 <br>Если ссылка на сработала, или я Вас не слышу - позвоните 908 160 5316
 
+
+<strong>Мое расписание на странице</strong><br>
+https://www.hse.ru/org/persons/202020/timetable
+
 <strong>  Начальная страница, рабочие материалы  и ссылки дисциплины "Основы web-технологий" размещены в репозитории:</strong>
 https://github.com/vmarshirov/g06u28
 
