@@ -15,7 +15,9 @@ https://github.com/vmarshirov/g06u28
 
 <strong> Начальная страница, рабочие материалы  и ссылки дисциплины "Разработка web-приложений" размещены в репозитории:</strong>
 https://github.com/vmarshirov/WebApplicationsDevelopment
-<br>Список студентов, у которых я веду семинары на странице https://github.com/vmarshirov/WebApplicationsDevelopment/blob/main/files/courseid_262693_participants.pdf
+
+
+
 
 <strong> Начальная страница, рабочие материалы  и ссылки дисциплины "Базы данных" размещены в репозитории:</strong>
 https://github.com/vmarshirov/DataBase
