@@ -42,11 +42,6 @@ https://github.com/vmarshirov/DataBase
 <p>https://telemost.yandex.ru/download-desktop</p>
 
 
- 
-<strong>Коллеги по майнору:</strong>
-<br>amkuznetsov@hse.ru; m.timofeeva@hse.ru; dasolntseva@hse.ru; aiosipova@hse.ru; eshadrina@hse.ru; vmarshirov@hse.ru; 
-<br>https://github.com/evshadrina;
-<br>
 
 <strong>Контакты:</strong>
 <br>e-mail: vmarshirov@hse.ru
