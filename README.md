@@ -15,6 +15,7 @@ https://github.com/vmarshirov/WebApplicationsDevelopment
 https://github.com/vmarshirov/DataBase
 
 
+
 <strong>Обязательно</strong>
 <br>Обновить Python в соответствии с рекомендациями в https://github.com/vmarshirov/WebApplicationsDevelopment/tree/main/files
 
